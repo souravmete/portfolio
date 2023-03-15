@@ -236,7 +236,7 @@ p {
 .progress-bar .Jvs{
     height:0.3rem;
     border-radius:0.4rem;
-    width:65%;
+    width:50%;
     box-shadow: 0 0 1rem var(--main-color);
     background:var(--main-color);
 }
